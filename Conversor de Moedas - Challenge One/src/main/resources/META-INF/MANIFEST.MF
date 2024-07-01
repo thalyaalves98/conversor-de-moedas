@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+
+Built-By: Thalya
+Main-Class: org.conversormoedas.ConversorMain
