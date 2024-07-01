@@ -6,13 +6,15 @@ Este projeto é um conversor de moedas simples desenvolvido em Java como parte d
 
 
 ## ➕ Funcionalidades
+  - **Histórico de Conversões**: Visualize um registro das conversões recentes realizadas no aplicativo.
+  - **Menu de Conversões**: Faça sua conversão com apenas um clique.
+    - Conversão de Dólar para Euro (USD para EUR)
+    - Conversão de Dólar para Real (USD para BRL)
+    - Conversão de Real para Dólar (BRL para USD)
+    - Conversão de Real para Euro (BRL para EUR)
+    - Conversão de Euro para Dólar (EUR para USD)
+    - Conversão de Euro para Real  (EUR para BRL)
 
-- Conversão de Dólar para Euro (USD para EUR)
-- Conversão de Dólar para Real (USD para BRL)
-- Conversão de Real para Dólar (BRL para USD)
-- Conversão de Real para Euro (BRL para EUR)
-- Conversão de Euro para Dólar (EUR para USD)
-- Conversão de Euro para Real  (EUR para BRL)
 
 
 ## :arrow_down: Baixe o Aplicativo   
